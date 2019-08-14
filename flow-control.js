@@ -43,6 +43,6 @@ switch(age) {
   case age === 19:
   return "You are a teenager";
   default:
-  return "You are a teenage;
+  return "You are a teenager";
 }
 }
